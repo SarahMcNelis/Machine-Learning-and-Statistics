@@ -1,12 +1,12 @@
-# Assessment: Machine Learning and Statistics Portfolio
+# Machine Learning and Statistics 
 
-by Sarah McNelis - G00398343
+by Sarah McNelis
 
 <br>
 
 ## Introduction
 
-This repository contains my MLS Portfolio which consists of jupyter notebooks as part of my assessment for Machine Learning and Statistics (MLS) module for my Higher Diplomena in Computing in Data Analytics.
+This repository contains my MLS Portfolio which consists of jupyter notebooks as part of my assessment for Machine Learning and Statistics (MLS) module for my Higher Diplomena in Science in Computing in Data Analytics.
 
 <br>
 
